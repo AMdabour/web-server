@@ -11,3 +11,6 @@ The application fetches the visitor's IP address, determines their location usin
 - Retrieves visitor's IP address and geolocation data.
 - Fetches current weather information for the visitor's location.
 - Responds with a JSON object containing IP address, location, and weather details.
+
+## Live demo
+[Check out the live demo of this project: ](https://helloserver.pythonanywhere.com/api/hello?visitor_name=add-your-name-here)
